@@ -1,4 +1,5 @@
-# Testbench Files
+# Array Multiplier – Testbench
 
-This folder contains **testbench file** for the Array Multiplier project.  
-These testbenche is used to simulate and verify the correctness of the multiplier modules.
+This folder contains the testbench for the Array Multiplier project.  
+
+- tb_multiplier.v – This testbench is used to simulate and verify the Array Multiplier modules from the src folder.  
